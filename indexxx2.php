@@ -1,7 +1,7 @@
 
 <html>
 <body>
-jjjjjjjj
+ppppp
 <form action="sendx.php" method="post">
 名前<input type="text" name="name" ><br>
 国籍：<input type="radio" name="kokuseki" value="1">日本
